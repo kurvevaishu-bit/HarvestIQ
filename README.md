@@ -1,4 +1,8 @@
-﻿# 🌾 Smart Farming AI – Crop Yield Predictor
+﻿# 🌾 HarvestIQ
+ 
+ AI-powered agricultural decision support system for fertilizer recommendation, crop insurance prediction, price forecasting, and yield prediction. 🌱🚜📊
+
+ ---
 
 ## 📌 Project Overview
 Smart Farming AI is a Machine Learning based agriculture dashboard that helps farmers with:
