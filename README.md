@@ -29,8 +29,3 @@ To provide a unified AI-driven platform that empowers farmers with actionable in
 
 ---
 
-2. Install dependencies:
-    pip install -r requirements.txt
-
-3. Run the app:
-    streamlit run app.py
