@@ -29,12 +29,6 @@ To provide a unified AI-driven platform that empowers farmers with actionable in
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/harshcode29-sketch/crop-yield-predictor.git
-
 2. Install dependencies:
     pip install -r requirements.txt
 
